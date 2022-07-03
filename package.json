@@ -1,0 +1,23 @@
+{
+  "name": "pizza-dough",
+  "version": "1.0.0",
+  "description": "CLI to calculate the pizza dough",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ttessarolo/pizza-dough.git"
+  },
+  "keywords": [
+    "pizza",
+    "dough"
+  ],
+  "author": "Tommaso Tessarolo <ttessarolo@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ttessarolo/pizza-dough/issues"
+  },
+  "homepage": "https://github.com/ttessarolo/pizza-dough#readme"
+}
